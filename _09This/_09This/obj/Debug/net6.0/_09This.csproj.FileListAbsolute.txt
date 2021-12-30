@@ -1,0 +1,15 @@
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\bin\Debug\net6.0\_09This.exe
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\bin\Debug\net6.0\_09This.deps.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\bin\Debug\net6.0\_09This.runtimeconfig.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\bin\Debug\net6.0\_09This.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\bin\Debug\net6.0\ref\_09This.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\bin\Debug\net6.0\_09This.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\obj\Debug\net6.0\_09This.csproj.AssemblyReference.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\obj\Debug\net6.0\_09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\obj\Debug\net6.0\_09This.AssemblyInfoInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\obj\Debug\net6.0\_09This.AssemblyInfo.cs
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\obj\Debug\net6.0\_09This.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\obj\Debug\net6.0\_09This.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\obj\Debug\net6.0\ref\_09This.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\obj\Debug\net6.0\_09This.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_09This\_09This\obj\Debug\net6.0\_09This.genruntimeconfig.cache

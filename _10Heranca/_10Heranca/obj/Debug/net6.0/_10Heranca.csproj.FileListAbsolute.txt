@@ -1,0 +1,15 @@
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\obj\Debug\net6.0\_10Heranca.csproj.AssemblyReference.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\obj\Debug\net6.0\_10Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\obj\Debug\net6.0\_10Heranca.AssemblyInfoInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\obj\Debug\net6.0\_10Heranca.AssemblyInfo.cs
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\obj\Debug\net6.0\_10Heranca.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\bin\Debug\net6.0\_10Heranca.exe
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\bin\Debug\net6.0\_10Heranca.deps.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\bin\Debug\net6.0\_10Heranca.runtimeconfig.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\bin\Debug\net6.0\_10Heranca.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\bin\Debug\net6.0\ref\_10Heranca.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\bin\Debug\net6.0\_10Heranca.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\obj\Debug\net6.0\_10Heranca.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\obj\Debug\net6.0\ref\_10Heranca.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\obj\Debug\net6.0\_10Heranca.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_10Heranca\_10Heranca\obj\Debug\net6.0\_10Heranca.genruntimeconfig.cache

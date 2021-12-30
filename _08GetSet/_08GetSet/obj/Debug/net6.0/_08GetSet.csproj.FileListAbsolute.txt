@@ -1,0 +1,15 @@
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\bin\Debug\net6.0\_08GetSet.exe
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\bin\Debug\net6.0\_08GetSet.deps.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\bin\Debug\net6.0\_08GetSet.runtimeconfig.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\bin\Debug\net6.0\_08GetSet.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\bin\Debug\net6.0\ref\_08GetSet.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\bin\Debug\net6.0\_08GetSet.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\obj\Debug\net6.0\_08GetSet.csproj.AssemblyReference.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\obj\Debug\net6.0\_08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\obj\Debug\net6.0\_08GetSet.AssemblyInfoInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\obj\Debug\net6.0\_08GetSet.AssemblyInfo.cs
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\obj\Debug\net6.0\_08GetSet.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\obj\Debug\net6.0\_08GetSet.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\obj\Debug\net6.0\ref\_08GetSet.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\obj\Debug\net6.0\_08GetSet.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_08GetSet\_08GetSet\obj\Debug\net6.0\_08GetSet.genruntimeconfig.cache

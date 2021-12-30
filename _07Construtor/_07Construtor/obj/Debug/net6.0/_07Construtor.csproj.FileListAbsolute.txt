@@ -1,0 +1,15 @@
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\bin\Debug\net6.0\_07Construtor.exe
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\bin\Debug\net6.0\_07Construtor.deps.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\bin\Debug\net6.0\_07Construtor.runtimeconfig.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\bin\Debug\net6.0\_07Construtor.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\bin\Debug\net6.0\ref\_07Construtor.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\bin\Debug\net6.0\_07Construtor.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\obj\Debug\net6.0\_07Construtor.csproj.AssemblyReference.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\obj\Debug\net6.0\_07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\obj\Debug\net6.0\_07Construtor.AssemblyInfoInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\obj\Debug\net6.0\_07Construtor.AssemblyInfo.cs
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\obj\Debug\net6.0\_07Construtor.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\obj\Debug\net6.0\_07Construtor.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\obj\Debug\net6.0\ref\_07Construtor.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\obj\Debug\net6.0\_07Construtor.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_07Construtor\_07Construtor\obj\Debug\net6.0\_07Construtor.genruntimeconfig.cache

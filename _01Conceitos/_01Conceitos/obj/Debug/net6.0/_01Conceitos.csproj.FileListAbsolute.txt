@@ -1,0 +1,15 @@
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\bin\Debug\net6.0\_01Conceitos.exe
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\bin\Debug\net6.0\_01Conceitos.deps.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\bin\Debug\net6.0\_01Conceitos.runtimeconfig.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\bin\Debug\net6.0\_01Conceitos.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\bin\Debug\net6.0\ref\_01Conceitos.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\bin\Debug\net6.0\_01Conceitos.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\obj\Debug\net6.0\_01Conceitos.csproj.AssemblyReference.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\obj\Debug\net6.0\_01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\obj\Debug\net6.0\_01Conceitos.AssemblyInfoInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\obj\Debug\net6.0\_01Conceitos.AssemblyInfo.cs
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\obj\Debug\net6.0\_01Conceitos.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\obj\Debug\net6.0\_01Conceitos.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\obj\Debug\net6.0\ref\_01Conceitos.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\obj\Debug\net6.0\_01Conceitos.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_01Conceitos\_01Conceitos\obj\Debug\net6.0\_01Conceitos.genruntimeconfig.cache

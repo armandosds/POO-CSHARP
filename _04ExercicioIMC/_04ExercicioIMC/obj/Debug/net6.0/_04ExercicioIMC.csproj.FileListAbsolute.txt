@@ -1,0 +1,15 @@
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\obj\Debug\net6.0\_04ExercicioIMC.csproj.AssemblyReference.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\obj\Debug\net6.0\_04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\obj\Debug\net6.0\_04ExercicioIMC.AssemblyInfoInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\obj\Debug\net6.0\_04ExercicioIMC.AssemblyInfo.cs
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\obj\Debug\net6.0\_04ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\bin\Debug\net6.0\_04ExercicioIMC.exe
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\bin\Debug\net6.0\_04ExercicioIMC.deps.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\bin\Debug\net6.0\_04ExercicioIMC.runtimeconfig.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\bin\Debug\net6.0\_04ExercicioIMC.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\bin\Debug\net6.0\ref\_04ExercicioIMC.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\bin\Debug\net6.0\_04ExercicioIMC.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\obj\Debug\net6.0\_04ExercicioIMC.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\obj\Debug\net6.0\ref\_04ExercicioIMC.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\obj\Debug\net6.0\_04ExercicioIMC.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_04ExercicioIMC\_04ExercicioIMC\obj\Debug\net6.0\_04ExercicioIMC.genruntimeconfig.cache

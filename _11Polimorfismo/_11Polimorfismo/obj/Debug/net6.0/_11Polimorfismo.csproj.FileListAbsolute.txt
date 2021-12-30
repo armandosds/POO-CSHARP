@@ -1,0 +1,15 @@
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\bin\Debug\net6.0\_11Polimorfismo.exe
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\bin\Debug\net6.0\_11Polimorfismo.deps.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\bin\Debug\net6.0\_11Polimorfismo.runtimeconfig.json
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\bin\Debug\net6.0\_11Polimorfismo.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\bin\Debug\net6.0\ref\_11Polimorfismo.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\bin\Debug\net6.0\_11Polimorfismo.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\obj\Debug\net6.0\_11Polimorfismo.csproj.AssemblyReference.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\obj\Debug\net6.0\_11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\obj\Debug\net6.0\_11Polimorfismo.AssemblyInfoInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\obj\Debug\net6.0\_11Polimorfismo.AssemblyInfo.cs
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\obj\Debug\net6.0\_11Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\obj\Debug\net6.0\_11Polimorfismo.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\obj\Debug\net6.0\ref\_11Polimorfismo.dll
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\obj\Debug\net6.0\_11Polimorfismo.pdb
+C:\Projetos\Projetos-CSharp\Curso-POO\_11Polimorfismo\_11Polimorfismo\obj\Debug\net6.0\_11Polimorfismo.genruntimeconfig.cache

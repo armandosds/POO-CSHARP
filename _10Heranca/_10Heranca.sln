@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10Heranca", "_10Heranca\_10Heranca.csproj", "{C8DAB1D3-0BE8-43EA-8B7D-20BCA3780CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DAB1D3-0BE8-43EA-8B7D-20BCA3780CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DAB1D3-0BE8-43EA-8B7D-20BCA3780CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DAB1D3-0BE8-43EA-8B7D-20BCA3780CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DAB1D3-0BE8-43EA-8B7D-20BCA3780CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
