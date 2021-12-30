@@ -1,0 +1,15 @@
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/bin/Debug/net6.0/_13Abstracao
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/bin/Debug/net6.0/_13Abstracao.deps.json
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/bin/Debug/net6.0/_13Abstracao.runtimeconfig.json
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/bin/Debug/net6.0/_13Abstracao.dll
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/bin/Debug/net6.0/ref/_13Abstracao.dll
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/bin/Debug/net6.0/_13Abstracao.pdb
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/obj/Debug/net6.0/_13Abstracao.csproj.AssemblyReference.cache
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/obj/Debug/net6.0/_13Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/obj/Debug/net6.0/_13Abstracao.AssemblyInfoInputs.cache
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/obj/Debug/net6.0/_13Abstracao.AssemblyInfo.cs
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/obj/Debug/net6.0/_13Abstracao.csproj.CoreCompileInputs.cache
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/obj/Debug/net6.0/_13Abstracao.dll
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/obj/Debug/net6.0/ref/_13Abstracao.dll
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/obj/Debug/net6.0/_13Abstracao.pdb
+/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/obj/Debug/net6.0/_13Abstracao.genruntimeconfig.cache

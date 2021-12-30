@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRuWlfFRVFZVtdwShJHGQt3kbk7ccIJz2W4sa/ctA6wkUo6xGjZHeKq7STgKBZ77ZvkzQwBn+D75j7wihHzq3w==",
+  "success": true,
+  "projectFilePath": "/home/armando/Projetos/POO-CSHARP/_13Abstracao/_13Abstracao/_13Abstracao.csproj",
+  "expectedPackageFiles": [
+    "/home/armando/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
