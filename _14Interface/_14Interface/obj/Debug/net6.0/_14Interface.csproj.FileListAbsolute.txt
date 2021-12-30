@@ -1,0 +1,15 @@
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/bin/Debug/net6.0/_14Interface
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/bin/Debug/net6.0/_14Interface.deps.json
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/bin/Debug/net6.0/_14Interface.runtimeconfig.json
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/bin/Debug/net6.0/_14Interface.dll
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/bin/Debug/net6.0/ref/_14Interface.dll
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/bin/Debug/net6.0/_14Interface.pdb
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/obj/Debug/net6.0/_14Interface.csproj.AssemblyReference.cache
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/obj/Debug/net6.0/_14Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/obj/Debug/net6.0/_14Interface.AssemblyInfoInputs.cache
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/obj/Debug/net6.0/_14Interface.AssemblyInfo.cs
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/obj/Debug/net6.0/_14Interface.csproj.CoreCompileInputs.cache
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/obj/Debug/net6.0/_14Interface.dll
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/obj/Debug/net6.0/ref/_14Interface.dll
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/obj/Debug/net6.0/_14Interface.pdb
+/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/obj/Debug/net6.0/_14Interface.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YcziFXfE546DNkJHOzAJ5ZuzvD3m4vBce/w+OZcTztS1tJvMDAoXD//Xcunvip8cMfzzZN6LJHjn4EvblNhWnw==",
+  "success": true,
+  "projectFilePath": "/home/armando/Projetos/POO-CSHARP/_14Interface/_14Interface/_14Interface.csproj",
+  "expectedPackageFiles": [
+    "/home/armando/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
