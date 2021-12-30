@@ -1,0 +1,15 @@
+/home/armando/RiderProjects/_12Estatico/_12Estatico/bin/Debug/net6.0/_12Estatico
+/home/armando/RiderProjects/_12Estatico/_12Estatico/bin/Debug/net6.0/_12Estatico.deps.json
+/home/armando/RiderProjects/_12Estatico/_12Estatico/bin/Debug/net6.0/_12Estatico.runtimeconfig.json
+/home/armando/RiderProjects/_12Estatico/_12Estatico/bin/Debug/net6.0/_12Estatico.dll
+/home/armando/RiderProjects/_12Estatico/_12Estatico/bin/Debug/net6.0/ref/_12Estatico.dll
+/home/armando/RiderProjects/_12Estatico/_12Estatico/bin/Debug/net6.0/_12Estatico.pdb
+/home/armando/RiderProjects/_12Estatico/_12Estatico/obj/Debug/net6.0/_12Estatico.csproj.AssemblyReference.cache
+/home/armando/RiderProjects/_12Estatico/_12Estatico/obj/Debug/net6.0/_12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+/home/armando/RiderProjects/_12Estatico/_12Estatico/obj/Debug/net6.0/_12Estatico.AssemblyInfoInputs.cache
+/home/armando/RiderProjects/_12Estatico/_12Estatico/obj/Debug/net6.0/_12Estatico.AssemblyInfo.cs
+/home/armando/RiderProjects/_12Estatico/_12Estatico/obj/Debug/net6.0/_12Estatico.csproj.CoreCompileInputs.cache
+/home/armando/RiderProjects/_12Estatico/_12Estatico/obj/Debug/net6.0/_12Estatico.dll
+/home/armando/RiderProjects/_12Estatico/_12Estatico/obj/Debug/net6.0/ref/_12Estatico.dll
+/home/armando/RiderProjects/_12Estatico/_12Estatico/obj/Debug/net6.0/_12Estatico.pdb
+/home/armando/RiderProjects/_12Estatico/_12Estatico/obj/Debug/net6.0/_12Estatico.genruntimeconfig.cache

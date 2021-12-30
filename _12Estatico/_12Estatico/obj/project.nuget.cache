@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rMn4Mi1tblF7yQk+RUHxgpRxZv7NvQTlmzC0OiWxdoYnO0Yx7bmbxNR8Ry5PQQJcGb3HtCiKKmFJB4ct3bDODg==",
+  "success": true,
+  "projectFilePath": "/home/armando/RiderProjects/_12Estatico/_12Estatico/_12Estatico.csproj",
+  "expectedPackageFiles": [
+    "/home/armando/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
