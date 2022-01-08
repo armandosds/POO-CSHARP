@@ -6,8 +6,8 @@ public class Pessoa
 
     public string Nome
     {
-        get { return nome; } 
+        get { return nome; }
         set { nome = value; }
     }
-    
+
 }
